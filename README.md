@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhi-repo-cs/leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0200-number-of-islands](https://github.com/Abhi-repo-cs/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0929-unique-email-addresses](https://github.com/Abhi-repo-cs/leetcode-submissions/tree/master/0929-unique-email-addresses) |
 ## String
 |  |
@@ -21,4 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0929-unique-email-addresses](https://github.com/Abhi-repo-cs/leetcode-submissions/tree/master/0929-unique-email-addresses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Abhi-repo-cs/leetcode-submissions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Abhi-repo-cs/leetcode-submissions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Abhi-repo-cs/leetcode-submissions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Abhi-repo-cs/leetcode-submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
